@@ -6,9 +6,9 @@
 }
 
 .fragment-wrapper > .section:first-of-type {
-    padding-top: 5;
+    padding-top: 0;
 }
 
 .fragment-wrapper > .section:last-of-type {
-    padding-bottom: 5;
+    padding-bottom: 0;
 }
